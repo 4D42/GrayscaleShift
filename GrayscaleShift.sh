@@ -1,5 +1,4 @@
 #!/bin/bash
-#Commentaires blabalbablabablabl
 
 DigitalVibrance=`nvidia-settings -q [DPY:LVDS-0]/DigitalVibrance -t`
 
